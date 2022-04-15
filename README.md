@@ -11,9 +11,9 @@
 
 - 📫 How to reach me **chavansarvesh64@gmail.com**
 
-- Hackerrank 4 ⭐⭐⭐⭐ (C programming)
+- Hackerrank ⭐⭐⭐⭐ (C programming)
 
-- Hackerrank 3 ⭐⭐⭐ (Problem Solving)
+- Hackerrank ⭐⭐⭐ (Problem Solving)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
