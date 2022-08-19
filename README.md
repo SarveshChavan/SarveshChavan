@@ -3,11 +3,11 @@
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarveshchavan&label=Profile%20views&color=0e75b6&style=flat" alt="sarveshchavan" /> </p>
 
-- 🔭 I’m currently working on **Database Project**
+- 🔭 I’m an **Intern @ L3A2KART** with a role as frontend developer (Flutter). 
 
-- 🌱 I’m currently learning **Web Development And JAVA**
+- 🌱 I’m currently learning **Data Mining, Computer graphics, Flutter.**
 
-- 💬 Ask me about **C,C++,OOP And Data Structures**
+- 💬 Ask me about **C, C++, Java, DBMS, SDLC, OOP And Data Structures.**
 
 - 📫 How to reach me **chavansarvesh64@gmail.com**
 
