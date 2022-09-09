@@ -3,9 +3,9 @@
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarveshchavan&label=Profile%20views&color=0e75b6&style=flat" alt="sarveshchavan" /> </p>
 
-- 🔭 I’m an **Intern @ L3A2KART** with a role as frontend developer (Flutter). 
+- 👨🏻‍💼 I’m an **Intern @ L3A2KART** with a role as Frontend Developer (Flutter). 
 
-- 🌱 I’m currently learning **Data Mining, Computer graphics, Flutter.**
+- 🌱 I’m currently learning **Data Mining, Computer Graphics, Flutter.**
 
 - 💬 Ask me about **C, C++, Java, DBMS, SDLC, OOP And Data Structures.**
 
@@ -17,7 +17,7 @@
 
 - Hackerrank ⭐⭐⭐ (C++ programming)
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/sarvesh-chavan-524087219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarvesh-chavan-524087219" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sarveshchavan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sarveshchavan" height="30" width="40" /></a>
