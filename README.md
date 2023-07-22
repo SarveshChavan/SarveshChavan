@@ -7,9 +7,7 @@
 
 - 🌱 I’m currently learning **Data Mining, Machine Learning, Android Development.**
 
-- 💬 Ask me about **C, C++, Java, DBMS, SDLC, OOP, Android Development, UI/UX Design/Development And Data Structures.**
-
-- Check out my Portfolio website **@sarveshchavan.github.in**
+- 💬 Ask me about **C, C++, Java, DBMS, SDLC, OOP, Android Development, UI/UX Design/Development And Data Structure
 
 - 📫 How to reach me **chavansarvesh64@gmail.com**
 
