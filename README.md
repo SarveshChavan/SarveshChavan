@@ -13,9 +13,7 @@
 
 - Hackerrank ⭐⭐⭐⭐ (C programming)
 
-- Hackerrank ⭐⭐⭐ (Problem Solving)
-
-- Hackerrank ⭐⭐⭐⭐ (C++ programming)
+- Hackerrank ⭐⭐⭐⭐⭐ (C++ programming)
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
