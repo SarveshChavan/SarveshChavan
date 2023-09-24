@@ -5,12 +5,14 @@
 
 - 👨🏻‍💼 I was an **Intern @ L3A2KART** with a role as Full-Stack Developer (Flutter). 
 
-- 🌱 I’m currently learning **Data Mining, Machine Learning, Android Development.**
+- 🌱 I’m currently learning **Android Development, Machine Learning.**
 
-- 💬 Ask me about **C, C++, Java, DBMS, SDLC, OOP, Android Development, UI/UX Design/Development And Data Structure
+- 💬 Ask me about **C, C++, DBMS, SDLC, OOP, Android Development, UI/UX Design/Development And Data Structure**
 
 - 📫 How to reach me **chavansarvesh64@gmail.com**
 
+- GFG Problems Solved (350+)
+- 
 - Hackerrank ⭐⭐⭐⭐ (C programming)
 
 - Hackerrank ⭐⭐⭐⭐⭐ (C++ programming)
