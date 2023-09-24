@@ -11,19 +11,36 @@
 
 - 📫 How to reach me **chavansarvesh64@gmail.com**
 
-- GFG Problems Solved (350+)
-- 
+- GFG Problems Solved (**350+**)
+ 
 - Hackerrank ⭐⭐⭐⭐ (C programming)
 
 - Hackerrank ⭐⭐⭐⭐⭐ (C++ programming)
+
+<h2 align="left">Visit My Portfolio Here </h2>
+<a href="https://sarveshchavan.github.io" target="blank"><img align="center" src="https://github.com/SarveshChavan/SarveshChavan/assets/103113615/3921de37-035d-409d-bdfb-732417deae3b" alt="Portfolio" height="40" width="40" /></a>
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/sarvesh-chavan-524087219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarvesh-chavan-524087219" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sarveshchavan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sarveshchavan" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/chavansarvesh" target="blank"><img align="center" src="https://github.com/SarveshChavan/SarveshChavan/assets/103113615/b00c918a-2184-4aa1-ab7a-de7fda324cbc"
+ alt="chavansarvesh" height="23" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> </p>
+<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+  <img src="https://github.com/SarveshChavan/SarveshChavan/assets/103113615/ea647dab-3d69-4768-a62b-c3fe91df22fe" alt="python" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
+  <img src="https://github.com/SarveshChavan/SarveshChavan/assets/103113615/f63f1bd4-8fa8-48f5-a11f-9336285cfadb" alt="flutter" width="30" height="35"/> 
+  <img src="https://github.com/SarveshChavan/SarveshChavan/assets/103113615/96c2f4b8-a123-4193-9fb8-23752f1fe2a9" alt="mongodb" width="40" height="40"/>
+  <img src="https://github.com/SarveshChavan/SarveshChavan/assets/103113615/74b7f46c-93e2-4870-9cfa-a1c6558144c2" alt="nodejs" width="40" height="40"/>
+  <img src="https://github.com/SarveshChavan/SarveshChavan/assets/103113615/ffa9fe1b-a6c2-4cc9-9f07-ffc00aa91e19" alt="figma" width="35" height="35"/>
+  <img src="https://github.com/SarveshChavan/SarveshChavan/assets/103113615/c293fe23-5cbc-49c3-bbbe-e7cf89ec714c" alt="canva" width="35" height="35"/>
+  
+</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarveshchavan&show_icons=true&locale=en" alt="sarveshchavan" /></p>
