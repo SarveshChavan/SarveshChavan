@@ -18,14 +18,14 @@
 - Hackerrank ⭐⭐⭐⭐⭐ (C++ programming)
 
 <h2 align="left">Visit My Portfolio Here </h2>
-<a href="https://sarveshchavan.github.io" target="blank"><img align="center" src="https://github.com/SarveshChavan/SarveshChavan/assets/103113615/3921de37-035d-409d-bdfb-732417deae3b" alt="Portfolio" height="40" width="40" /></a>
+<a href="https://sarveshchavan.github.io" target="blank"><img align="center" src="https://github.com/SarveshChavan/SarveshChavan/blob/059d08d5c75c97abea3f3892a8c5a8cc01c5aca6/portfolio-icon-png-72.webp" alt="Portfolio" height="40" width="40" /></a>
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/sarvesh-chavan-524087219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarvesh-chavan-524087219" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sarveshchavan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sarveshchavan" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/chavansarvesh" target="blank"><img align="center" src="https://github.com/SarveshChavan/SarveshChavan/assets/103113615/b00c918a-2184-4aa1-ab7a-de7fda324cbc"
- alt="chavansarvesh" height="23" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/chavansarvesh" target="blank"><img align="center" src="https://github.com/SarveshChavan/SarveshChavan/blob/059d08d5c75c97abea3f3892a8c5a8cc01c5aca6/GeeksforGeeks.webp"
+ alt="chavansarvesh" height="40" width="40" /></a>
 
 </p>
 
